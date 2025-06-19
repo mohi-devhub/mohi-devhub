@@ -47,7 +47,6 @@ Tools:      Git | GitHub | Power BI | Google Sheets | VS Code
 |-----------|----------------|
 | **Lion Optimizer Reimplementation** | Recreated NeurIPS 2023 paper logic with symbolic optimizer search engine. Achieved 88.26% test accuracy on FashionMNIST. |
 | **IEEE Website** | Built multiple frontend sections with clean UI and responsive design for the university’s IEEE branch site. |
-| **Django Webapps** | Developed and optimized several web apps with integrated ML workflows during internship at NIELIT. |
 
 ---
 
