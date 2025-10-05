@@ -1,10 +1,9 @@
-
 <h1 align="center">Hey there 👋, I'm Mohith</h1>
 <h3 align="center">CS Undergrad | ML Enthusiast | Fullstack Developer | IEEE Leader</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="150" />
-</p>
+
+
+[![An image of @mohidevhub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohidevhub)](https://holopin.io/@mohidevhub)
 
 ---
 
