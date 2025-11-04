@@ -33,15 +33,26 @@ Tools:      Git | GitHub | Power BI | Google Sheets | VS Code
 
 ## 🔥 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohi-devhub&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohi-devhub&layout=compact&theme=radical" height="170" />
-</p>
+<div align="center">
+
+  <!-- Streak Stats -->
+  <a href="https://github.com/mohi-devhub">
+    <img height="165" src="https://streak-stats.demolab.com?user=mohi-devhub&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  </a>
+
+  <!-- GitHub Stats -->
+  <a href="https://github.com/mohi-devhub">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=mohi-devhub&show_icons=true&theme=radical&hide_border=true&rank_icon=github&border_radius=10" alt="GitHub Stats" />
+  </a>
+
+  <!-- Top Languages -->
+  <a href="https://github.com/mohi-devhub">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohi-devhub&layout=compact&theme=radical&hide_border=true&border_radius=10" alt="Top Languages" />
+  </a>
+
+</div>
 
 ---
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohi-devhub&theme=radical&hide_border=true&cache_bust=1" alt="mohi-devhub's streak" />
-</p>
 
 
 ## 🚀 Notable Projects
