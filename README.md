@@ -39,6 +39,10 @@ Tools:      Git | GitHub | Power BI | Google Sheets | VS Code
 </p>
 
 ---
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohi-devhub&theme=radical&hide_border=true&cache_bust=1" alt="mohi-devhub's streak" />
+</p>
+
 
 ## 🚀 Notable Projects
 
