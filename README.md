@@ -37,10 +37,11 @@ alias    : mohi-devhub
 degree   : B.Tech Computer Science (2027)
 college  : Chinmaya Vishwavidyapeeth
 goal     : Aspiring AI Engineer
-status   : Student · Builder 
+status   : GSoC 2026 Contributor · Student · Builder
 location : Kerala, India 🌊
 ```
 
+🌍 **GSoC 2026** @ RUXAILAB — Focus Group Analysis Module  
 🛡️ Building **SentinelLM** — LLM safety middleware  
 🎮 Building **StudyQuest** — AI learning platform  
 🔬 Reimplemented **NeurIPS 2023 Lion Optimizer** (88.26% acc)  
@@ -72,6 +73,31 @@ location : Kerala, India 🌊
 ## 🏅 Holopin Badges
 
 [![Holopin Board](https://holopin.me/mohidevhub)](https://holopin.io/@mohidevhub)
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  GSOC 2026 BANNER                         -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌍 GSoC 2026 — Selected Contributor
+
+<div align="center">
+
+[![GSoC](https://img.shields.io/badge/Google%20Summer%20of%20Code%202026-Selected-%23FF6D00?style=for-the-badge&logo=google&logoColor=white)](https://summerofcode.withgoogle.com/)
+[![Org](https://img.shields.io/badge/Org-RUXAILAB%20(Uramaki%20Lab)-%2300FF88?style=for-the-badge)]()
+
+</div>
+
+Selected as a **Google Summer of Code 2026 contributor** at **RUXAILAB (Uramaki Lab)**, building the **Focus Group Management and Analysis Module** — a new study type adding real-time multi-participant data capture, NLP-assisted thematic analysis, and sentiment scoring to the RUXAILAB platform.
+
+| Detail | Info |
+|--------|------|
+| **Project** | Focus Group Management & Analysis Module |
+| **Organization** | RUXAILAB / Uramaki Lab |
+| **Size** | Medium (175 hrs) |
+| **Stack** | Vue 3 · Firebase · Python · scikit-learn · LiveKit |
+| **Mentor** | Marc |
 
 ---
 
@@ -136,6 +162,49 @@ $ curl localhost:8000/v1/chat/completions \
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ANTIVIBE — HERO                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🧠 AntiVibe
+
+<div align="center">
+
+[![AntiVibe](https://img.shields.io/badge/🧠%20AntiVibe-View%20Repo-%2300FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohi-devhub/antivibe)
+[![Stars](https://img.shields.io/badge/⭐%20Stars-600%2B-FFD700?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://github.com/mohi-devhub/antivibe/blob/main/LICENSE)
+
+</div>
+
+**A Claude Code skill that fights the learn-nothing problem in vibe-coding.**
+
+Everyone's vibecoding. Nobody's understanding what gets shipped. AntiVibe auto-triggers via Claude Code hooks after every AI coding session and generates structured educational deep-dives — not just "what this code does" but *why* it was written that way, what CS concepts are in play, and where to go deeper.
+
+```bash
+# Runs automatically via SubagentStop / Stop hooks
+# After Claude Code finishes a task, you get:
+
+📄  deep-dive.md
+    ├── Code walkthrough
+    ├── Design decisions & alternatives
+    ├── CS concepts mapped to this code
+    └── Curated learning resources
+```
+
+**Works across Python · TypeScript · Go · Rust · and more**
+
+> *"Vibecoding is fast. Understanding what you ship matters more."*
+
+<div align="center">
+
+![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00FF88?style=for-the-badge)
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                  CURRENTLY BUILDING                       -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -143,6 +212,7 @@ $ curl localhost:8000/v1/chat/completions \
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
+| **🌍 GSoC @ RUXAILAB** | Focus Group Management & Analysis Module | Vue 3 · Firebase · Python · scikit-learn | ![Active](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
 | **🛡️ SentinelLM** | Real-time LLM safety middleware | Python · FastAPI · Redis · Docker | ![Active](https://img.shields.io/badge/ACTIVE-00FF88?style=flat-square) |
 | **🎮 StudyQuest** | Terminal-style AI learning platform | Next.js · FastAPI · Supabase · Gemini | ![WIP](https://img.shields.io/badge/WIP-FFAA00?style=flat-square) |
 | **🌐 Lokha** | Community hub for AI prompts | Next.js · Prisma · tRPC · Supabase | ![WIP](https://img.shields.io/badge/WIP-FFAA00?style=flat-square) |
@@ -176,6 +246,20 @@ Real-time LLM safety middleware. Blocks prompt injections, redacts PII, flags ha
 </td>
 <td width="50%" valign="top">
 
+### 🧠 AntiVibe ⭐ 600+
+Open-source Claude Code skill that auto-generates educational deep-dives for AI-written code. Fights the learn-nothing problem in vibe-coding via hooks and subagents.
+
+![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-00FF88?style=flat-square)
+
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-00FF88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/mohi-devhub/antivibe)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🎮 StudyQuest
 AI-powered terminal-style learning platform with adaptive quizzes, real-time XP tracking, and minimalist B/W dashboard.
 
@@ -183,19 +267,6 @@ AI-powered terminal-style learning platform with adaptive quizzes, real-time XP 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Lokha
-Community hub for discovering, sharing, and voting on the best AI prompts — interactive voting, Google OAuth, real-time updates.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![tRPC](https://img.shields.io/badge/tRPC-398CCB?style=flat-square&logo=trpc&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
@@ -305,11 +376,12 @@ Key finding: Lion's sign-based update rule with decoupled weight decay generaliz
 I'm a CS student on a deliberate path toward a thing I care deeply about:
 
 **🤖 Aspiring AI Engineer**
-> Going beyond just calling LLM APIs — I want to understand the math, build the middleware, tune the models. SentinelLM and my Lion Optimizer work are steps on that path.
+> Going beyond just calling LLM APIs — I want to understand the math, build the middleware, tune the models. SentinelLM, AntiVibe, and my Lion Optimizer work are steps on that path.
 
 ```text
 Current focus  →  LLM safety · Applied ML · Fullstack systems
 Learning now   →  ML theory · System design · Research papers
+GSoC 2026      →  RUXAILAB · Focus Group Analysis · NLP pipelines
 End goal       →  Build AI products that actually work in prod
 ```
 
