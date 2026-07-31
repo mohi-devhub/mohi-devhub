@@ -23,6 +23,9 @@ I build production-minded AI systems - safety middleware, developer tools, and t
 ### AntiVibe
 
 [![stars](https://img.shields.io/github/stars/mohi-devhub/antivibe?style=flat-square&logo=github&label=stars&color=2b9348)](https://github.com/mohi-devhub/antivibe)
+[![Mintlify OSS](https://img.shields.io/badge/Mintlify-OSS_Program-2b9348?style=flat-square&logo=mintlify&logoColor=white)](https://mintlify.com)
+
+A Claude Code skill that fights the learn-nothing problem...
 
 A Claude Code skill that fights the learn-nothing problem in AI-assisted coding. Auto-generates structured deep-dives on AI-written code — *why* it was written that way, the CS concepts in play, and where to go deeper. Works across Python, TypeScript, Go, and Rust.
 
