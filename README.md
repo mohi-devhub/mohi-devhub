@@ -18,7 +18,7 @@ I build production-minded AI systems - safety middleware, developer tools, and t
 - Creator of **[AntiVibe](https://github.com/mohi-devhub/antivibe)**, a Claude Code skill that auto-generates educational deep-dives on AI-written code, with **900+ GitHub stars** and acceptance into **[Mintlify's OSS Program](https://mintlify.com)**
 - Building **[SentinelLM](https://github.com/mohi-devhub/SentinelLM)**, an open-source LLM proxy running a 7-stage concurrent safety evaluation pipeline (prompt injection, PII, toxicity, hallucination, relevance) across OpenAI, Anthropic, and Gemini
 - **GSoC 2026 with [RUXAILAB](https://github.com/ruxailab)** (Uramaki Lab), building the **Focus Group Management and Analysis Module** , real-time multi-participant capture, NLP-assisted thematic analysis, and LiveKit SFU infrastructure
-- Interning as **Product Developer (Full Stack & GenAI)** at **Koncepts** (PrepAiro), an EdTech AI platform - shipping backend systems for an AI content pipeline, past-paper libraries, and lockdown browser contracts
+- Interning as **Product Developer (Full Stack & GenAI)** at **[Koncepts](https://koncepts.school/)** (PrepAiro), an EdTech AI platform - shipping backend systems for an AI content pipeline, past-paper libraries, and lockdown browser contracts
 - Selected for **India Builds with Claude**, India's first Claude Builders Showcase (Anthropic × Razorpay × Peak XV, Bengaluru), out of 2,300+ applicants
 - Creator of **[Voidwalker](https://github.com/mohi-devhub/voidwalker)**, a Chrome extension + local MCP server exposing 16 custom tools with 256-bit token auth
 - Served as **IEEE Oceanic Student Chapter Chair** @ CVV
@@ -45,4 +45,4 @@ Currently working on **GPU compute infrastructure**, **inference scheduling syst
 ---
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mohi-devhub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true" height="160" alt="GitHub Stats"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohi-devhub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true)
