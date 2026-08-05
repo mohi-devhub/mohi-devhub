@@ -43,10 +43,3 @@ Currently working on **GPU compute infrastructure**, **inference scheduling syst
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
 ---
-
----
-
-<div align="center">
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=mohi-devhub)](https://github.com/stats-organization/github-stats-extended)
-
-</div>
