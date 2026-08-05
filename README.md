@@ -44,5 +44,9 @@ Currently working on **GPU compute infrastructure**, **inference scheduling syst
 
 ---
 
+---
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohi-devhub&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_title=true)
+[![GitHub stats](https://github-stats-extended.vercel.app/api?username=mohi-devhub)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
