@@ -7,7 +7,7 @@
 </td>
 <td>
 
-[Portfolio](https://portfolio-bay-five-40.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-mohith-6b217b291/) · [X](https://x.com/MohithAchu)
+[Portfolio](https://itsmohith.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/m-mohith-6b217b291/) · [X](https://x.com/MohithAchu)
 
 </td>
 </tr>
