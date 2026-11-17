@@ -1,4 +1,4 @@
-I work on LLM inference, evaluation and post-training, mostly measuring how serving systems actually behave and building tools around what I find. Final-year CS student, graduating May 2027.
+I work on LLM inference, evaluation and post-training, mostly measuring how serving systems actually behave and building tools around what I find.
 
 [Portfolio](https://mohith.xyz) · [LinkedIn](https://www.linkedin.com/in/m-mohith-6b217b291/) · [X](https://x.com/MohithAchu) · [ORCID](https://orcid.org/0009-0003-2978-3045)
 
